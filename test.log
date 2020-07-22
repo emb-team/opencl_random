@@ -1,0 +1,15 @@
+evg@evg:~/projects/test/opencl_random$ ./gpu_random
+num_platforms = 2
+Create a compute context
+Create a command commands
+Create the compute program from the source buffer
+Build the program
+Create the compute kernel in the program we wish to run
+Create the input and output arrays in device memory
+Set the arguments to our compute kernel
+Get the maximum work group size for executing the kernel
+Exec time: 74836 microsecs
+
+evg@evg:~/projects/test/opencl_random$ ./cpu_random
+Test for 10000000 reps
+Exec time: 473614 ms
