@@ -1,5 +1,5 @@
 # opencl_random
-Random generation test on CPU and GPU
+Random string generation test on CPU and GPU
 
 See test.log to check the performance.
 
